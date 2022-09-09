@@ -5,3 +5,7 @@
 2. git branch -M main
 
 * Create a Branch
+ 
+ git push
+ 
+ # pull request git
